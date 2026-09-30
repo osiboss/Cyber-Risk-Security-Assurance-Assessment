@@ -179,30 +179,22 @@ The assessment also highlighted that having a security control in place does not
 
 ### 1. Risk Register
 
-![Risk Register]
-<img width="2360" height="1474" alt="IMG_0496" src="https://github.com/user-attachments/assets/a37a3279-f453-4081-a33b-95968823035b" />
-
+![Risk Register]<img width="2360" height="1474" alt="IMG_0496" src="https://github.com/user-attachments/assets/812b8484-82b8-405b-8c8a-eebfb59c5690" />
 
 
 ### 2. Risk Matrix
 
-![Risk Matrix]
-<img width="2360" height="1477" alt="IMG_0497" src="https://github.com/user-attachments/assets/87398538-70da-49c8-a30e-d3ba773ffc08" />
-
+![Risk Matrix]<img width="2360" height="1477" alt="IMG_0497" src="https://github.com/user-attachments/assets/6723151c-f4d5-4327-b720-4bdcde157753" />
 
 
 ### 3. Security Control Assessment
 
-![Security Control Assessment]
-<img width="2360" height="1473" alt="IMG_0495" src="https://github.com/user-attachments/assets/226f40ea-fb7f-40bc-96fc-bcfed8555579" />
-
-
+![Security Control Assessment]<img width="2360" height="1473" alt="IMG_0495" src="https://github.com/user-attachments/assets/3bc79c0f-188f-4507-924b-0be46d503463" />
 
 
 ### 4. Remediation Plan
 
-![Remediation Plan]
-<img width="2360" height="1469" alt="IMG_0494" src="https://github.com/user-attachments/assets/268c34a5-fcdf-4cd8-9058-576ffe932d4f" />
+![Remediation Plan]<img width="2360" height="1469" alt="IMG_0494" src="https://github.com/user-attachments/assets/3c7d29ed-df81-4446-8562-85a020273710" />
 
 
 
